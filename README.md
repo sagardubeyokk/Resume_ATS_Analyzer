@@ -45,7 +45,7 @@
 1. Open the app in your browser
 2. Type your **target job role** (e.g. GenAI Analyst)
 3. Upload your **resume as PDF**
-4. Click **Analyze Resume →**
+4. Click **https://resumeats1.streamlit.app/**
 5. Get your detailed feedback instantly!
 
 ---
